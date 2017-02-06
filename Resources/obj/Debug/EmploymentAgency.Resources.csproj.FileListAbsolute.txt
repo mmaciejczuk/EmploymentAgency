@@ -1,0 +1,7 @@
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\bin\Debug\Resources.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\bin\Debug\Resources.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\obj\Debug\EmploymentAgency.Resources.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\obj\Debug\Resources.Resources.Home.resources
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\obj\Debug\EmploymentAgency.Resources.csproj.GenerateResource.Cache
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\obj\Debug\Resources.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Resources\obj\Debug\Resources.pdb

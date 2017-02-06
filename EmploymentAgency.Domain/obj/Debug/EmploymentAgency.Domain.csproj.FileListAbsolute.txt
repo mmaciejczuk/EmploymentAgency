@@ -1,0 +1,5 @@
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Domain\bin\Debug\EmploymentAgency.Domain.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Domain\bin\Debug\EmploymentAgency.Domain.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Domain\obj\Debug\EmploymentAgency.Domain.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Domain\obj\Debug\EmploymentAgency.Domain.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Domain\obj\Debug\EmploymentAgency.Domain.pdb
