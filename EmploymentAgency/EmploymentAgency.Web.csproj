@@ -201,6 +201,20 @@
     <Folder Include="Content\Styles\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\EmploymentAgency.Contracts.csproj">
+      <Project>{7C1D0857-DE60-4AD7-957D-4B551FE4E79E}</Project>
+      <Name>EmploymentAgency.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\EmploymentAgency.Repository.csproj">
+      <Project>{6b64a774-c41c-4aaa-b959-bfa6b90d29c6}</Project>
+      <Name>EmploymentAgency.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\EmploymentAgency.Services.csproj">
+      <Project>{9B406668-DCEB-4D45-934C-CB8A014BAE50}</Project>
+      <Name>EmploymentAgency.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

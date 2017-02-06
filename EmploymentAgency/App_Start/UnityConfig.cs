@@ -1,6 +1,8 @@
 using System;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
+using Contracts;
+using Services;
 
 namespace EmploymentAgency.App_Start
 {
@@ -37,6 +39,8 @@ namespace EmploymentAgency.App_Start
 
             // TODO: Register your types here
             // container.RegisterType<IProductRepository, ProductRepository>();
+
+            container.RegisterType<IUserService, UserService>(new PerRequestLifetimeManager());
         }
     }
 }

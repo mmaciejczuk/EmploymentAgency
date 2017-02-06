@@ -10,9 +10,11 @@ namespace Services
 {
     public class UserService : IUserService
     {
+        private EAContext context = new EAContext();
         public IQueryable<User> GetUsers()
         {
-            throw new NotImplementedException();
+            var users = from o in context.User select o;
+            return users;
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Contracts;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,18 @@ namespace EmploymentAgency.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IUserService _repo;
+
+        public HomeController(IUserService repo)
+        {
+            _repo = repo;
+        }
+
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            var users = _repo.GetUsers().AsQueryable();
+            return View(users);
         }
     }
 }

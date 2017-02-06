@@ -14,6 +14,8 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Reposito
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Repository.dll.config
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Repository.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.Agent.Intercept.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.DependencyCollector.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -22,16 +24,13 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Reposito
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.WindowsServer.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.ApplicationInsights.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.xml
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.DependencyCollector.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.ServerTelemetryChannel.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.Web.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.AI.WindowsServer.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.ApplicationInsights.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\EmploymentAgency.Repository.csprojResolveAssemblyReference.cache
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\Repository.pdb
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.dll
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.dll
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.xml
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.xml

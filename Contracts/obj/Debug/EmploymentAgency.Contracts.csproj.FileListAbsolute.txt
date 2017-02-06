@@ -1,8 +1,3 @@
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Contracts.dll
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Contracts.pdb
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\EmploymentAgency.Contracts.csprojResolveAssemblyReference.cache
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\Contracts.dll
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\Contracts.pdb
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\ApplicationInsights.config
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\roslyn\csc.exe
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -16,8 +11,13 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contract
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\roslyn\vbc.exe
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\roslyn\VBCSCompiler.exe
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\roslyn\VBCSCompiler.exe.config
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Repository.dll
-c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Repository.pdb
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Contracts.dll.config
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Contracts.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Contracts.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\EntityFramework.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Repository.pdb
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\EntityFramework.xml
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\EmploymentAgency.Contracts.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\Contracts.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\Contracts.pdb

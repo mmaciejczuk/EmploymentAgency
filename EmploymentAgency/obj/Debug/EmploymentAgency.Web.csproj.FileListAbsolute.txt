@@ -14,6 +14,7 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Employme
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EmploymentAgency.dll.config
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EmploymentAgency.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EmploymentAgency.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Contracts.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EntityFramework.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EntityFramework.SqlServer.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Microsoft.AI.Agent.Intercept.dll
@@ -30,6 +31,8 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Employme
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Microsoft.Practices.Unity.Mvc.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Repository.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Services.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\System.Web.Helpers.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\System.Web.Mvc.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\System.Web.Razor.dll
@@ -37,6 +40,9 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Employme
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\System.Web.Webpages.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\System.Web.Webpages.Razor.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\WebActivatorEx.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Contracts.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Repository.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Services.pdb
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EntityFramework.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\EntityFramework.SqlServer.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency\bin\Microsoft.AI.DependencyCollector.xml
