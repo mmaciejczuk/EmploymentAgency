@@ -20,3 +20,8 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\Contracts.pdb
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\Repository.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\Services.dll.config
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\EntityFramework.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\EntityFramework.xml
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\bin\Debug\EntityFramework.SqlServer.xml

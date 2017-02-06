@@ -31,3 +31,7 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Reposito
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\EmploymentAgency.Repository.csprojResolveAssemblyReference.cache
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\Repository.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.xml
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.xml

@@ -18,3 +18,6 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contract
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\roslyn\VBCSCompiler.exe.config
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Repository.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\Contracts.dll.config
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\EntityFramework.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\bin\Debug\EntityFramework.xml
