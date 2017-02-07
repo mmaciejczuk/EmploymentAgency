@@ -8,18 +8,18 @@ namespace EmploymentAgency.Migrations.Migrations._2017._02
     {
         public override void Down()
         {
-            Delete.FromTable("User");
-            Delete.FromTable("Role");
+            Delete.FromTable("Users");
+            Delete.FromTable("Roles");
         }
 
         public override void Up()
         {
-            Insert.IntoTable("Role")
+            Insert.IntoTable("Roles")
                                     .Row(new { Id = 1, Name = "Admin" })
                                     .Row(new { Id = 2, Name = "User" })
                                     .Row(new { Id = 3, Name = "Anonymous" });
 
-            Insert.IntoTable("User").Row(new
+            Insert.IntoTable("Users").Row(new
                                     {
                                         Name = "John",
                                         Surname = "Smith",
