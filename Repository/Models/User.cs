@@ -8,6 +8,11 @@ namespace Repository.Models
 {
     public class User
     {
+        public User()
+        {
+            this.JobOffers = new HashSet<JobOffer>();
+        }
+
         [Key]
         [Display(Name = "Id:")]
         public int Id { get; set; }
@@ -49,5 +54,7 @@ namespace Repository.Models
 
         [Required]
         public Role Role { get; set; }
+
+        public virtual ICollection<JobOffer> JobOffers { get; set; }
     }
 }

@@ -21,3 +21,26 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contract
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\EmploymentAgency.Contracts.csprojResolveAssemblyReference.cache
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\Contracts.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Contracts\obj\Debug\Contracts.pdb
+D:\code\EmploymentAgency\Contracts\bin\Debug\ApplicationInsights.config
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\csc.exe
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\vbc.exe
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\VBCSCompiler.exe
+D:\code\EmploymentAgency\Contracts\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\code\EmploymentAgency\Contracts\bin\Debug\Contracts.dll.config
+D:\code\EmploymentAgency\Contracts\bin\Debug\Contracts.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\Contracts.pdb
+D:\code\EmploymentAgency\Contracts\bin\Debug\Repository.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\EntityFramework.dll
+D:\code\EmploymentAgency\Contracts\bin\Debug\Repository.pdb
+D:\code\EmploymentAgency\Contracts\bin\Debug\EntityFramework.xml
+D:\code\EmploymentAgency\Contracts\obj\Debug\EmploymentAgency.Contracts.csprojResolveAssemblyReference.cache
+D:\code\EmploymentAgency\Contracts\obj\Debug\Contracts.dll
+D:\code\EmploymentAgency\Contracts\obj\Debug\Contracts.pdb

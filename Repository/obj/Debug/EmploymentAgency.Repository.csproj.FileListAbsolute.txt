@@ -34,3 +34,41 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Reposito
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\Repository.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\Repository.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Repository\obj\Debug\EmploymentAgency.Repository.csprojResolveAssemblyReference.cache
+D:\code\EmploymentAgency\Repository\bin\ApplicationInsights.config
+D:\code\EmploymentAgency\Repository\bin\roslyn\csc.exe
+D:\code\EmploymentAgency\Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\code\EmploymentAgency\Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\EmploymentAgency\Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\code\EmploymentAgency\Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\code\EmploymentAgency\Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\code\EmploymentAgency\Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\code\EmploymentAgency\Repository\bin\roslyn\System.Collections.Immutable.dll
+D:\code\EmploymentAgency\Repository\bin\roslyn\System.Reflection.Metadata.dll
+D:\code\EmploymentAgency\Repository\bin\roslyn\vbc.exe
+D:\code\EmploymentAgency\Repository\bin\roslyn\VBCSCompiler.exe
+D:\code\EmploymentAgency\Repository\bin\roslyn\VBCSCompiler.exe.config
+D:\code\EmploymentAgency\Repository\bin\Repository.dll.config
+D:\code\EmploymentAgency\Repository\bin\Repository.dll
+D:\code\EmploymentAgency\Repository\bin\Repository.pdb
+D:\code\EmploymentAgency\Repository\bin\EntityFramework.dll
+D:\code\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.Agent.Intercept.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.DependencyCollector.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.Web.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.WindowsServer.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.ApplicationInsights.dll
+D:\code\EmploymentAgency\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\code\EmploymentAgency\Repository\bin\EntityFramework.xml
+D:\code\EmploymentAgency\Repository\bin\EntityFramework.SqlServer.xml
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.DependencyCollector.xml
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.Web.xml
+D:\code\EmploymentAgency\Repository\bin\Microsoft.AI.WindowsServer.xml
+D:\code\EmploymentAgency\Repository\bin\Microsoft.ApplicationInsights.xml
+D:\code\EmploymentAgency\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\code\EmploymentAgency\Repository\obj\Debug\EmploymentAgency.Repository.csprojResolveAssemblyReference.cache
+D:\code\EmploymentAgency\Repository\obj\Debug\Repository.dll
+D:\code\EmploymentAgency\Repository\obj\Debug\Repository.pdb

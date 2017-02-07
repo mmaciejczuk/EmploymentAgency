@@ -8,6 +8,11 @@ namespace Repository.Models
 {
     public class JobOffer
     {
+        public JobOffer()
+        {
+
+        }
+
         [Key]
         [Display(Name = "Id:")]
         public int Id { get; set; }
@@ -15,10 +20,6 @@ namespace Repository.Models
         [Required]
         [MaxLength(160)]
         public string NameOfOffer { get; set; }
-        [Display(Name = "Nazwa firmy:")]
-        [Required]
-        [MaxLength(160)]
-        public string Company { get; set; }
         [Display(Name = "Nazwa stanowiska:")]
         [Required]
         [MaxLength(160)]
@@ -51,5 +52,7 @@ namespace Repository.Models
         public DateTime ExpirationDate { get; set; }
 
         public JobCategory JobCategory { get; set; }
+        public Company Company { get; set; }
+        public User Users { get; set; }
     }
 }

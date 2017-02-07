@@ -25,3 +25,30 @@ c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\obj\Debug\EmploymentAgency.Services.csprojResolveAssemblyReference.cache
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\obj\Debug\Services.dll
 c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\Services\obj\Debug\Services.pdb
+D:\code\EmploymentAgency\Services\bin\Debug\ApplicationInsights.config
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\csc.exe
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\vbc.exe
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\VBCSCompiler.exe
+D:\code\EmploymentAgency\Services\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\code\EmploymentAgency\Services\bin\Debug\Services.dll.config
+D:\code\EmploymentAgency\Services\bin\Debug\Services.dll
+D:\code\EmploymentAgency\Services\bin\Debug\Services.pdb
+D:\code\EmploymentAgency\Services\bin\Debug\Contracts.dll
+D:\code\EmploymentAgency\Services\bin\Debug\EntityFramework.dll
+D:\code\EmploymentAgency\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\EmploymentAgency\Services\bin\Debug\Repository.dll
+D:\code\EmploymentAgency\Services\bin\Debug\Contracts.pdb
+D:\code\EmploymentAgency\Services\bin\Debug\Repository.pdb
+D:\code\EmploymentAgency\Services\bin\Debug\EntityFramework.xml
+D:\code\EmploymentAgency\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\EmploymentAgency\Services\obj\Debug\EmploymentAgency.Services.csprojResolveAssemblyReference.cache
+D:\code\EmploymentAgency\Services\obj\Debug\Services.dll
+D:\code\EmploymentAgency\Services\obj\Debug\Services.pdb

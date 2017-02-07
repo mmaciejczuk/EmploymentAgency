@@ -117,6 +117,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Company.cs" />
     <Compile Include="Models\EAContext.cs" />
     <Compile Include="Models\Email.cs" />
     <Compile Include="Models\JobCategory.cs" />

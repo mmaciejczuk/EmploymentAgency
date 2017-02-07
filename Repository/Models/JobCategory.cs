@@ -8,6 +8,11 @@ namespace Repository.Models
 {
     public class JobCategory
     {
+        public JobCategory()
+        {
+
+        }
+
         [Key]
         [Display(Name = "Id:")]
         public int Id { get; set; }

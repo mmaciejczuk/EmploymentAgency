@@ -1,0 +1,16 @@
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\EmploymentAgency.Migrations.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\EmploymentAgency.Migrations.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\FluentMigrator.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\FluentMigrator.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\FluentMigrator.xml
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\obj\Debug\EmploymentAgency.Migrations.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\obj\Debug\EmploymentAgency.Migrations.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\EmploymentAgency\EmploymentAgency.Migrations\obj\Debug\EmploymentAgency.Migrations.pdb
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\EmploymentAgency.Migrations.dll
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\EmploymentAgency.Migrations.pdb
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\FluentMigrator.dll
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\FluentMigrator.pdb
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\bin\Debug\FluentMigrator.xml
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\obj\Debug\EmploymentAgency.Migrations.csprojResolveAssemblyReference.cache
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\obj\Debug\EmploymentAgency.Migrations.dll
+D:\code\EmploymentAgency\EmploymentAgency.Migrations\obj\Debug\EmploymentAgency.Migrations.pdb
